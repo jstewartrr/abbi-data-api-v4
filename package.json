@@ -1,0 +1,13 @@
+{
+  "name": "abbi-data-api-v4",
+  "version": "4.0.0",
+  "description": "ABBI Data API v4 - Enhanced Snowflake Integration",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build"
+  },
+  "dependencies": {
+    "snowflake-sdk": "^1.9.0"
+  }
+}
